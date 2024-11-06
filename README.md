@@ -1,1 +1,2 @@
 # Laptop-Specifications-Data-Analysis-Report
+This report analyzes a dataset of 1,275 laptops from multiple brands, examining key attributes like screen size, RAM, weight, price, screen resolution, CPU speed, storage, and features such as touchscreen capability and display type. Using descriptive statistics and exploratory data analysis (EDA), we uncover trends in average values, ranges, and distributions. The report concludes with findings and suggests avenues for further analysis to deepen understanding of trends in laptop specs and pricing
